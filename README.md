@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MOUAD LBARANI</h1>
-<h3 align="center">I'm a passionate Electromechanical Engineer,  👀 I’m interested in IOT and Computer science, from Morocco.👋</h3>
+<h3 align="center">I'm an Electromechanical Engineer, 👀 passionate about IOT and Computer science, from Morocco.👋</h3>
 <br>
 
 ## 🙋‍♂️ About Me
@@ -14,7 +14,7 @@
 
 - 👨‍💻 Most of my projects are available at **[My Portfolio](https://rinmodo.github.io)**
 
-- 📫 How to reach me **mouadlbarani@gmail.com**
+- 📫 How to reach me / check my **[Resume](https://drive.google.com/file/d/1dZyGoICClGQPdk_qZmUpTaBaDVHuVSME/view?usp=sharing)** or Text me on **mouadlbarani@gmail.com**
 
 - ⚡ Fun fact **I play games (LOL,COD,CS..) and go to the GYM very often.**
 
